@@ -1,0 +1,16 @@
+{
+    "name": "BTC",
+    "description": "Bitcoin | The ultimate King of crypto",
+    "image": "https://s2.coinmarketcap.com/static/img/coins/64x64/1.png",
+ 
+    "traits": [
+        {
+            "traitType": "",
+            "value": ""
+        },
+        {
+            "traitType": "",
+            "value": ""
+        }
+    ]
+}
