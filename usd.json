@@ -1,0 +1,16 @@
+{
+    "name": "USD",
+    "description": "My money",
+    "image": "https://s2.coinmarketcap.com/static/img/coins/64x64/3408.png",
+ 
+    "traits": [
+        {
+            "traitType": "",
+            "value": ""
+        },
+        {
+            "traitType": "",
+            "value": ""
+        }
+    ]
+}
