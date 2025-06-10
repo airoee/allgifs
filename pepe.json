@@ -1,0 +1,16 @@
+{
+    "name": "PEPE",
+    "description": "PEPE Coin",
+    "image": "https://s2.coinmarketcap.com/static/img/coins/64x64/24478.png",
+ 
+    "traits": [
+        {
+            "traitType": "",
+            "value": ""
+        },
+        {
+            "traitType": "",
+            "value": ""
+        }
+    ]
+}
