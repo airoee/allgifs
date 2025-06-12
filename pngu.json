@@ -1,0 +1,16 @@
+{
+    "name": "PENGU",
+    "description": "Pudgy Penguins",
+    "image": "https://s2.coinmarketcap.com/static/img/coins/64x64/34466.png",
+ 
+    "traits": [
+        {
+            "traitType": "",
+            "value": ""
+        },
+        {
+            "traitType": "",
+            "value": ""
+        }
+    ]
+}
